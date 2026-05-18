@@ -1,3 +1,4 @@
+## AIM:
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
 ## Problem Statement and Dataset
